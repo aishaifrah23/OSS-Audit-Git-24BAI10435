@@ -1,0 +1,6 @@
+--- AISHA'S OPEN SOURCE PHILOSOPHY ---
+Date: 2026-03-30
+
+My favorite tool is VS Code because I value Ownership above all else.
+As a developer, I plan to contribute A mobile app for community volunteering to the FOSS community
+so that others can study and improve upon my work freely.
